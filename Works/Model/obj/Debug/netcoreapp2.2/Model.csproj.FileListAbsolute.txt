@@ -1,0 +1,4 @@
+D:\BaiduNetdiskDownload\Works\Model\obj\Debug\netcoreapp2.2\Model.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\Works\Model\obj\Debug\netcoreapp2.2\Model.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Works\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\Works\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfo.cs

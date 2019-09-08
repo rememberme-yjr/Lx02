@@ -1,0 +1,8 @@
+D:\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csprojAssemblyReference.cache
+D:\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfoInputs.cache
+D:\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\Works\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfo.cs
